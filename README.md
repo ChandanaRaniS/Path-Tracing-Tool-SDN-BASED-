@@ -185,7 +185,7 @@ Include screenshots showing:
 
 ## 12. GitHub Repository
 
-https://github.com/ChandanaRaniS/Path-Tracing-Tool-SDN-BASED-
+https://github.com/ChandanaRaniS/Path-Tracing-Tool-SDN-BASED
 
 ---
 
