@@ -176,14 +176,29 @@ The script includes:
 
 
 
-### Ping Test
-![Ping](pingall.png)
+### 1. Ping Test (Connectivity Check)
 
-### Path Tracing Output
-![Path](path.png)
+The following output shows that all hosts in the network are reachable with no packet loss.
 
-### Failure Scenario
-![Failure](failure.png)
+![Ping Test](pingall.png)
+
+---
+
+### 2. Path Tracing Output
+
+The controller logs display the path taken by packets as they traverse through switches (s1 → s2 → s3).
+
+![Path Tracing Output](path.png)
+
+---
+
+### 3. Failure Scenario (Link Down)
+
+When the link between switches is disabled, partial packet loss is observed, demonstrating network failure behavior.
+
+![Failure Scenario](failure.png)
+
+
 
 ## 12. GitHub Repository
 
