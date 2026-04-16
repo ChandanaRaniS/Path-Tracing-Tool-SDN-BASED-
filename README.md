@@ -176,6 +176,8 @@ The script includes:
 
 
 
+
+
 ### 1. Ping Test (Connectivity Check)
 
 The following output shows that all hosts in the network are reachable with no packet loss.
@@ -197,7 +199,6 @@ The controller logs display the path taken by packets as they traverse through s
 When the link between switches is disabled, partial packet loss is observed, demonstrating network failure behavior.
 
 ![Failure Scenario](failure.png)
-
 
 
 ## 12. GitHub Repository
